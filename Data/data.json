@@ -1,0 +1,30 @@
+[
+  {
+      "amount": 100000,
+      "assetValue": 1000000,
+      "creditScore": 800,
+      "success": true,
+      "error": null
+  },
+  {
+      "amount": 200000,
+      "assetValue": 200000,
+      "creditScore": 700,
+      "success": false,
+      "error": "Validation failure"
+  },
+  {
+      "amount": 150000,
+      "assetValue": 1500000,
+      "creditScore": 600,
+      "success": true,
+      "error": null
+  },
+  {
+      "amount": 90000,
+      "assetValue": 100000,
+      "creditScore": 800,
+      "success": false,
+      "error": "Validation failure"
+  }
+]

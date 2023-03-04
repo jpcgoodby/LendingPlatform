@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LendingPlatform.Service": {
+      "commandName": "Project",
+      "commandLineArgs": "100000, 250000, 999"
+    }
+  }
+}
