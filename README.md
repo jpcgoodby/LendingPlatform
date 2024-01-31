@@ -1,6 +1,6 @@
 # Introduction
 
-This a test fir the Blackfinch lending platform.
+This a sample lending platform.
 
 # Getting Started
 
